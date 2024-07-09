@@ -1,0 +1,37 @@
+ 1342  git clone https://github.com/pelias/docker.git
+ 1346  ./pelias 
+ 1347  sudo chmod a+rw /mnt/data/pelias/
+ 1348  export DATA_DIR=/mnt/data/pelias
+ 1349  ./pelias 
+ 1360  vi pelias.json 
+ 1364  vi pelias.json 
+ 1369  vi pelias.json 
+ 1377  vi pelias.json i
+ 1378  vi pelias.json
+ 1379  ../../pelias compose pull
+ 1381  ../../pelias compose pull
+ 1385  ../../pelias compose pull
+ 1386  ../../pelias elastic start
+ 1488  find . -name pelias*
+ 1489  find . -name pelias* 2> /dev/null
+ 1490  find . -name *pelias* 2> /dev/null
+ 1491  cd /mnt/data/pelias/
+ 1494  type pelias
+ 1505  vi pelias.json 
+ 1513  vi pelias.json 
+ 1656  cd pelias/
+ 1671  mv docker pelias
+ 1672  cd pelias/
+ 1679  vi pelias.json 
+ 1685  vi pelias.json 
+ 1691  vi pelias.json 
+ 1697  vi pelias 
+ 1698  ./pelias 
+ 1703  vi pelias.json 
+ 1707  vi pelias.json 
+ 1712  export DATA_DIR=/mnt/data/pelias
+ 1713  history | grep pelias
+ 1715  vi pelias 
+ 1716  ./pelias 
+ 1717  history | grep pelias
+ 1718  history | grep pelias > history.txt
